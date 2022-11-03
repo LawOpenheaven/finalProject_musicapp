@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="home-btn" transform="translate(0)">
+    <g id="home">
+      <path id="Vector" d="M33.653,10.434l-11.6-9.1a6.777,6.777,0,0,0-8.059-.017l-11.6,9.115a6.729,6.729,0,0,0-2.32,5.955L2.3,29.479a6.545,6.545,0,0,0,6.323,5.243H27.4a6.647,6.647,0,0,0,6.341-5.26l2.232-13.09A6.9,6.9,0,0,0,33.653,10.434ZM19.342,27.778a1.329,1.329,0,0,1-2.657,0V22.569a1.329,1.329,0,0,1,2.657,0Z" transform="translate(6.99 7.639)" fill="#a70202"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H50V50H0Z" transform="translate(50 50) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

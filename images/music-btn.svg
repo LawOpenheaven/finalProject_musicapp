@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="music-btn" transform="translate(-616 -190)">
+    <g id="headphone" transform="translate(616 190)">
+      <path id="Vector" d="M1.629,35.967A1.637,1.637,0,0,1,0,34.342V21.992A21.462,21.462,0,0,1,21.562,0,21.8,21.8,0,0,1,43.337,21.775v12.35a1.625,1.625,0,1,1-3.25,0V21.775A18.545,18.545,0,0,0,21.562,3.25a18.208,18.208,0,0,0-18.308,18.7V34.32A1.628,1.628,0,0,1,1.629,35.967Z" transform="translate(4.329 4.442)" fill="#a70202"/>
+      <path id="Vector-2" data-name="Vector" d="M8.537,0H8.255A8.267,8.267,0,0,0,0,8.255v4.073a8.267,8.267,0,0,0,8.255,8.255h.282a8.267,8.267,0,0,0,8.255-8.255V8.255A8.267,8.267,0,0,0,8.537,0Z" transform="translate(4.333 26.975)" fill="#a70202"/>
+      <path id="Vector-3" data-name="Vector" d="M8.537,0H8.255A8.267,8.267,0,0,0,0,8.255v4.073a8.267,8.267,0,0,0,8.255,8.255h.282a8.267,8.267,0,0,0,8.255-8.255V8.255A8.267,8.267,0,0,0,8.537,0Z" transform="translate(30.875 26.975)" fill="#a70202"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H52V52H0Z" transform="translate(52 52) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

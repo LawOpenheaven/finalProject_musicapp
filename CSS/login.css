@@ -1,0 +1,91 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    /* background: #070101; */
+    color: #fff;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/test.jpg);
+    background-position: center;
+    background-size: contain;
+}
+.inputBox {
+    position: relative;
+    width: fit-content;
+    padding-bottom: 10px ;
+}
+.inputBox input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    outline: none;
+    color: #fff;
+    font-size: 1em;
+    transition: 0.5s;
+    background: #070101;
+}
+
+.inputBox span {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+    pointer-events: none;
+    font-size: 1em;
+    color: red;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+
+.inputBox input:valid ~ span,
+.inputBox input:focus ~span {
+    color: blue;
+    transform: translateX(10px) translateY(-7px);
+    padding: 0 10px;
+    background: #070101;
+    border-left: 1px solid blue;
+    border-right: 1px solid blue;
+    letter-spacing: 0.2em;
+}
+.inputBox input:valid
+.inputBox input:focus {
+    border: 1px solid blue;
+}
+
+.login_content {
+    position: absolute;
+    justify-content: center;
+
+    top: 30%;
+    align-items: center;
+    padding: 30px;
+    left: 20%;
+    min-width: 80%;
+    min-height: 100vh;
+}
+
+.check{
+    position: relative;
+    padding: 20px 0px 30px 0px;
+}
+.check span {
+    font-size: 1.5em;
+}
+.submit {
+    font-size: 1.5em;
+}
+
+.right {
+    position: relative;
+    width: 50%;
+    min-height: 10vh;
+    /* border: 1px solid red; */
+    color: #fff;
+}
